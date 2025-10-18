@@ -15,7 +15,11 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent))
 
 # Import functions from Q2 and Q3 modules
+import sys, os
+sys.path.append(os.path.abspath(os.path.dirname(__file__) + '/../../'))
+
 from q2_process_metadata import parse_config, validate_config, generate_sample_data, calculate_statistics
+
 from q3_data_utils import (load_data, clean_data, detect_missing, fill_missing, 
                           filter_data, transform_types, create_bins, summarize_by_group)
 
