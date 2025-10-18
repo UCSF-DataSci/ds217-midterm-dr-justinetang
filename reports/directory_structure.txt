@@ -1,0 +1,188 @@
+total 224
+drwxr-xr-x@  3 jutang  staff     96 Oct 16 11:53 __pycache__
+drwxr-xr-x@ 22 jutang  staff    704 Oct 17 16:19 .
+drwx------@ 81 jutang  staff   2592 Oct 16 11:53 ..
+drwxr-xr-x@ 13 jutang  staff    416 Oct 16 11:53 .git
+drwxr-xr-x@  4 jutang  staff    128 Oct 16 11:53 .github
+-rw-r--r--@  1 jutang  staff      8 Oct 16 11:53 .gitignore
+drwxr-xr-x@  3 jutang  staff     96 Oct 17 16:20 data
+-rwxr-xr-x@  1 jutang  staff  13266 Oct 16 11:53 generate_data.py
+-rw-r--r--@  1 jutang  staff  14662 Oct 16 11:53 GRADING_SPEC.md
+drwxr-xr-x@  2 jutang  staff     64 Oct 17 16:19 output
+-rwxr-xr-x@  1 jutang  staff    559 Oct 17 16:19 q1_setup_project.sh
+-rw-r--r--@  1 jutang  staff     58 Oct 16 11:53 q2_config.txt
+-rwxr-xr-x@  1 jutang  staff   2901 Oct 16 11:53 q2_process_metadata.py
+-rw-r--r--@  1 jutang  staff   5849 Oct 16 11:53 q3_data_utils.py
+-rw-r--r--@  1 jutang  staff   7309 Oct 16 11:53 q4_exploration.ipynb
+-rw-r--r--@  1 jutang  staff   4824 Oct 16 11:53 q5_missing_data.ipynb
+-rw-r--r--@  1 jutang  staff   6194 Oct 16 11:53 q6_transformation.ipynb
+-rw-r--r--@  1 jutang  staff   4995 Oct 16 11:53 q7_aggregation.ipynb
+-rwxr-xr-x@  1 jutang  staff    908 Oct 16 11:53 q8_run_pipeline.sh
+-rw-r--r--@  1 jutang  staff  12595 Oct 16 11:53 README.md
+drwxr-xr-x@  3 jutang  staff     96 Oct 17 16:20 reports
+-rw-r--r--@  1 jutang  staff     91 Oct 16 11:53 requirements.txt
+
+./__pycache__:
+total 24
+drwxr-xr-x@  3 jutang  staff    96 Oct 16 11:53 .
+drwxr-xr-x@ 22 jutang  staff   704 Oct 17 16:19 ..
+-rw-r--r--@  1 jutang  staff  9311 Oct 16 11:53 q3_data_utils.cpython-313.pyc
+
+./.git:
+total 48
+drwxr-xr-x@ 13 jutang  staff   416 Oct 16 11:53 .
+drwxr-xr-x@ 22 jutang  staff   704 Oct 17 16:19 ..
+-rw-r--r--@  1 jutang  staff   363 Oct 16 11:53 config
+-rw-r--r--@  1 jutang  staff    73 Oct 16 11:53 description
+-rw-r--r--@  1 jutang  staff   120 Oct 17 16:19 FETCH_HEAD
+-rw-r--r--@  1 jutang  staff    21 Oct 16 11:53 HEAD
+drwxr-xr-x@ 15 jutang  staff   480 Oct 16 11:53 hooks
+-rw-r--r--@  1 jutang  staff  1757 Oct 16 11:53 index
+drwxr-xr-x@  3 jutang  staff    96 Oct 16 11:53 info
+drwxr-xr-x@  4 jutang  staff   128 Oct 16 11:53 logs
+drwxr-xr-x@  4 jutang  staff   128 Oct 17 16:19 objects
+-rw-r--r--@  1 jutang  staff   112 Oct 16 11:53 packed-refs
+drwxr-xr-x@  5 jutang  staff   160 Oct 16 11:53 refs
+
+./.git/hooks:
+total 120
+drwxr-xr-x@ 15 jutang  staff   480 Oct 16 11:53 .
+drwxr-xr-x@ 13 jutang  staff   416 Oct 16 11:53 ..
+-rwxr-xr-x@  1 jutang  staff   478 Oct 16 11:53 applypatch-msg.sample
+-rwxr-xr-x@  1 jutang  staff   896 Oct 16 11:53 commit-msg.sample
+-rwxr-xr-x@  1 jutang  staff  4726 Oct 16 11:53 fsmonitor-watchman.sample
+-rwxr-xr-x@  1 jutang  staff   189 Oct 16 11:53 post-update.sample
+-rwxr-xr-x@  1 jutang  staff   424 Oct 16 11:53 pre-applypatch.sample
+-rwxr-xr-x@  1 jutang  staff  1643 Oct 16 11:53 pre-commit.sample
+-rwxr-xr-x@  1 jutang  staff   416 Oct 16 11:53 pre-merge-commit.sample
+-rwxr-xr-x@  1 jutang  staff  1374 Oct 16 11:53 pre-push.sample
+-rwxr-xr-x@  1 jutang  staff  4898 Oct 16 11:53 pre-rebase.sample
+-rwxr-xr-x@  1 jutang  staff   544 Oct 16 11:53 pre-receive.sample
+-rwxr-xr-x@  1 jutang  staff  1492 Oct 16 11:53 prepare-commit-msg.sample
+-rwxr-xr-x@  1 jutang  staff  2783 Oct 16 11:53 push-to-checkout.sample
+-rwxr-xr-x@  1 jutang  staff  3650 Oct 16 11:53 update.sample
+
+./.git/info:
+total 8
+drwxr-xr-x@  3 jutang  staff   96 Oct 16 11:53 .
+drwxr-xr-x@ 13 jutang  staff  416 Oct 16 11:53 ..
+-rw-r--r--@  1 jutang  staff  240 Oct 16 11:53 exclude
+
+./.git/logs:
+total 8
+drwxr-xr-x@  4 jutang  staff  128 Oct 16 11:53 .
+drwxr-xr-x@ 13 jutang  staff  416 Oct 16 11:53 ..
+-rw-r--r--@  1 jutang  staff  241 Oct 16 11:53 HEAD
+drwxr-xr-x@  4 jutang  staff  128 Oct 16 11:53 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x@ 4 jutang  staff  128 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff  128 Oct 16 11:53 ..
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 heads
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 remotes
+
+./.git/logs/refs/heads:
+total 8
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff  128 Oct 16 11:53 ..
+-rw-r--r--@ 1 jutang  staff  241 Oct 16 11:53 main
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff  128 Oct 16 11:53 ..
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 origin
+
+./.git/logs/refs/remotes/origin:
+total 8
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 .
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 ..
+-rw-r--r--@ 1 jutang  staff  241 Oct 16 11:53 HEAD
+
+./.git/objects:
+total 0
+drwxr-xr-x@  4 jutang  staff  128 Oct 17 16:19 .
+drwxr-xr-x@ 13 jutang  staff  416 Oct 16 11:53 ..
+drwxr-xr-x@  2 jutang  staff   64 Oct 16 11:53 info
+drwxr-xr-x@  4 jutang  staff  128 Oct 16 11:53 pack
+
+./.git/objects/info:
+total 0
+drwxr-xr-x@ 2 jutang  staff   64 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff  128 Oct 17 16:19 ..
+
+./.git/objects/pack:
+total 88
+drwxr-xr-x@ 4 jutang  staff    128 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff    128 Oct 17 16:19 ..
+-r--r--r--@ 1 jutang  staff   1912 Oct 16 11:53 pack-e27c525c0e151d66586adee41fa2cc727df62634.idx
+-r--r--r--@ 1 jutang  staff  38942 Oct 16 11:53 pack-e27c525c0e151d66586adee41fa2cc727df62634.pack
+
+./.git/refs:
+total 0
+drwxr-xr-x@  5 jutang  staff  160 Oct 16 11:53 .
+drwxr-xr-x@ 13 jutang  staff  416 Oct 16 11:53 ..
+drwxr-xr-x@  3 jutang  staff   96 Oct 16 11:53 heads
+drwxr-xr-x@  3 jutang  staff   96 Oct 16 11:53 remotes
+drwxr-xr-x@  2 jutang  staff   64 Oct 16 11:53 tags
+
+./.git/refs/heads:
+total 8
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 .
+drwxr-xr-x@ 5 jutang  staff  160 Oct 16 11:53 ..
+-rw-r--r--@ 1 jutang  staff   41 Oct 16 11:53 main
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 .
+drwxr-xr-x@ 5 jutang  staff  160 Oct 16 11:53 ..
+drwxr-xr-x@ 3 jutang  staff   96 Oct 16 11:53 origin
+
+./.git/refs/remotes/origin:
+total 8
+drwxr-xr-x@ 3 jutang  staff  96 Oct 16 11:53 .
+drwxr-xr-x@ 3 jutang  staff  96 Oct 16 11:53 ..
+-rw-r--r--@ 1 jutang  staff  30 Oct 16 11:53 HEAD
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x@ 2 jutang  staff   64 Oct 16 11:53 .
+drwxr-xr-x@ 5 jutang  staff  160 Oct 16 11:53 ..
+
+./.github:
+total 0
+drwxr-xr-x@  4 jutang  staff  128 Oct 16 11:53 .
+drwxr-xr-x@ 22 jutang  staff  704 Oct 17 16:19 ..
+drwxr-xr-x@  4 jutang  staff  128 Oct 16 11:53 test
+drwxr-xr-x@  3 jutang  staff   96 Oct 16 11:53 workflows
+
+./.github/test:
+total 32
+drwxr-xr-x@ 4 jutang  staff    128 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff    128 Oct 16 11:53 ..
+-rw-r--r--@ 1 jutang  staff     92 Oct 16 11:53 requirements.txt
+-rw-r--r--@ 1 jutang  staff  10508 Oct 16 11:53 test_assignment.py
+
+./.github/workflows:
+total 8
+drwxr-xr-x@ 3 jutang  staff    96 Oct 16 11:53 .
+drwxr-xr-x@ 4 jutang  staff   128 Oct 16 11:53 ..
+-rw-r--r--@ 1 jutang  staff  2181 Oct 16 11:53 classroom.yml
+
+./data:
+total 1872
+drwxr-xr-x@  3 jutang  staff      96 Oct 17 16:20 .
+drwxr-xr-x@ 22 jutang  staff     704 Oct 17 16:19 ..
+-rw-r--r--@  1 jutang  staff  958389 Oct 17 16:20 clinical_trial_raw.csv
+
+./output:
+total 0
+drwxr-xr-x@  2 jutang  staff   64 Oct 17 16:19 .
+drwxr-xr-x@ 22 jutang  staff  704 Oct 17 16:19 ..
+
+./reports:
+total 8
+drwxr-xr-x@  3 jutang  staff    96 Oct 17 16:20 .
+drwxr-xr-x@ 22 jutang  staff   704 Oct 17 16:19 ..
+-rw-r--r--@  1 jutang  staff  4096 Oct 17 16:20 directory_structure.txt

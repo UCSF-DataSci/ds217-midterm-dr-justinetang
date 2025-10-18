@@ -1,0 +1,4 @@
+mean: 46.15
+median: 45.5
+sum: 4615
+count: 100

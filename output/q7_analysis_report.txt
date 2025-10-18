@@ -1,0 +1,4 @@
+The mean ages for the sites vary, with site A being the youngest, and site D being the oldest.
+Site E has the highest cholesterol ratio.
+The BMI and systolic blood pressure means are similar overall across sites.
+The control group had the highest dropouts and mean outcome_cvd, but second lowest adherence_pct.
