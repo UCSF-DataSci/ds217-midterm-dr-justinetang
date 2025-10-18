@@ -1,7 +1,3 @@
-import sys
-import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
-
 #!/usr/bin/env python3
 """
 Assignment 5: Midterm Exam - Test Suite
@@ -9,12 +5,14 @@ Tests for clinical trial data processing pipeline.
 Total: 100 points across behavioral tests
 """
 
+import sys
+import os
+from pathlib import Path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
+
 import pytest
 import pandas as pd
 import numpy as np
-import os
-from pathlib import Path
-import sys
 
 sys.path.insert(0, str(Path(__file__).parent))
 
