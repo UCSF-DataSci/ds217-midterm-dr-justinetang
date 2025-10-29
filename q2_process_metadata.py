@@ -64,7 +64,6 @@ def calculate_statistics(data: list) -> dict:
 def main():
     config_file = 'q2_config.txt'
     config = parse_config(config_file)
-	
     validation = validate_config(config)
     if not all(validation.values()):
         print("Config validation failed:")
